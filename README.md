@@ -55,10 +55,13 @@ samples, guidance on mobile development, and a full API reference.
    cd weather_app
 
 2. Get the required packages:
+   ```bash
    flutter pub get
 
-3. Create a lib/config.dart file with your OpenWeatherMap API key:
+4. Create a lib/config.dart file with your OpenWeatherMap API key:
+   ```bash
    const String apiKey = 'YOUR_API_KEY';
 
-4. Run the app:
+6. Run the app:
+   ```bash
    flutter run
