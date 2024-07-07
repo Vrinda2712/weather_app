@@ -42,12 +42,12 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 "# weather_app" 
 
-### Prerequisites
+## Prerequisites
 
 - [Flutter](https://flutter.dev/docs/get-started/install) installed on your local machine
 - An API key from [OpenWeatherMap](https://openweathermap.org/api)
 
-### Installation
+## Installation
 
 1. Clone the repository:
    ```bash
