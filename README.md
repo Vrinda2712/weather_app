@@ -41,3 +41,24 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 "# weather_app" 
+
+### Prerequisites
+
+- [Flutter](https://flutter.dev/docs/get-started/install) installed on your local machine
+- An API key from [OpenWeatherMap](https://openweathermap.org/api)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/weather_app.git
+   cd weather_app
+
+2. Get the required packages:
+   flutter pub get
+
+3. Create a lib/config.dart file with your OpenWeatherMap API key:
+   const String apiKey = 'YOUR_API_KEY';
+
+4. Run the app:
+   flutter run
