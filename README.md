@@ -4,13 +4,16 @@ A Flutter Application To Discover The Weather Using OpenWeatherMap API 🚀
 
 # Overview
 A simple weather app using Flutter that displays current weather information for a given city. It provides real-time weather updates, forecasts, and more. It uses the OpenWeatherMap API to fetch weather data. 
+
 It has two screens: 
 - Home screen with a search bar to enter a city name
 - Weather details screen to display the weather information
+
 On the home screen:
 - A search bar where users can enter a city name
 - A button to trigger the weather search
 - A loading indicator while fetching data
+
 On the weather details screen:
 - City name
 - Current temperature (in Celsius)
